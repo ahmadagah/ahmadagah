@@ -56,5 +56,3 @@
 ### Philosophy
 
 > "The best way to predict the future is to build it." — I believe in learning by doing, shipping fast, and iterating based on real-world feedback.
-
----
