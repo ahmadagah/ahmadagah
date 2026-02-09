@@ -50,8 +50,6 @@
 ### Education
 
 - 🎓 **MS Computational Science** - Portland State University (3.79 GPA)
-- 📚 **MBA Finance** - Savitribai Phule Pune University
-- 📖 **BBA Accounting & Finance** - Savitribai Phule Pune University
 
 ### Philosophy
 
